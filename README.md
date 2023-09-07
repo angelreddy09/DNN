@@ -1,4 +1,4 @@
 # DNN
 700748217
 Angel Reddy Nakkala
-https://colab.research.google.com/drive/1Qbvl7LXbi72Ol83elTxmA5UD23AaRZxn?usp=drive_link
+https://drive.google.com/file/d/1CAg5Yxu3svxEUOrayQTarPN8_Sa3n10a/view?usp=drive_link
